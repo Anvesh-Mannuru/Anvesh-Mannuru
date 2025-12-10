@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Anvesh Choudary Mannuru
 
-<!--
-**Anvesh-Mannuru/Anvesh-Mannuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer with 5+ years of experience** building CI/CD pipelines, cloud infrastructure, automation, and Kubernetes deployments.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- CI/CD: GitHub Actions, Jenkins  
+- IaC: Terraform, Ansible  
+- Cloud: AWS | Azure | GCP  
+- Containers: Docker, Kubernetes  
+- Monitoring: Prometheus, Grafana  
+- Scripting: Bash, Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+Coming soon:  
+- Production-grade CI/CD pipeline  
+- Kubernetes microservices platform  
+- Terraform cloud infrastructure  
+- GitOps deployment with ArgoCD  
+
+---
+
+📫 **Contact me:**  
+Email: mail2mannuru@gmail.com  
+LinkedIn: www.linkedin.com/in/anvesh-mannuru  
