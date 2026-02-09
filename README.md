@@ -5,7 +5,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anvesh-mannuru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail2mannuru@gmail.com) 
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
+
 Coming soon:  
 - Production-grade CI/CD pipeline  
 - Kubernetes microservices platform  
